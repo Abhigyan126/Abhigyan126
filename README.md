@@ -3,10 +3,6 @@
 
 <table style="width: 100%; background-color: white; border-collapse: collapse;">
   <tr>
-    <td align="center">
-    </td>
-  </tr>
-  <tr>
     <td>
       <p>👋 Welcome to My GitHub!<br>Hi there! I’m passionate about exploring the endless possibilities of code. My repositories are a mix of serious projects, fun experiments, and everything in between. Whether it’s building something innovative or just playing around with an idea, this is where I bring my thoughts to life!</p>
     </td>
