@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="background-color: lightblue;>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -63,4 +63,4 @@
 </div>
 <br><br>
 
-<p align='center'>🌟 Take a Look Around<br>Feel free to explore my repositories. Whether you're here for something serious or just curious, I hope you find something that sparks your interest</p>
+<p>🌟 Take a Look Around<br>Feel free to explore my repositories. Whether you're here for something serious or just curious, I hope you find something that sparks your interest</p>
