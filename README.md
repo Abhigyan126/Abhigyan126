@@ -1,7 +1,9 @@
+
+![pexels-krisof-1252869](https://github.com/user-attachments/assets/442354bc-a483-4830-92ce-69dcc05074cd)
+
 <table style="width: 100%; background-color: white; border-collapse: collapse;">
   <tr>
     <td align="center">
-![pexels-krisof-1252869](https://github.com/user-attachments/assets/c5522dc1-282f-49b4-94dc-9895944010d4)
     </td>
   </tr>
   <tr>
