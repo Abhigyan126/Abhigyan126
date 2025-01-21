@@ -1,5 +1,5 @@
+![pexels-krisof-1252869](https://github.com/user-attachments/assets/8f882834-797f-4dc3-95ed-fa76902f2955)
 ###
-
 <p align="left">👋 Welcome to My GitHub!<br>Hi there! I’m passionate about exploring the endless possibilities of code. My repositories are a mix of serious projects, fun experiments, and everything in between. Whether it’s building something innovative or just playing around with an idea, this is where I bring my thoughts to life!</p>
 
 <div align="center">
