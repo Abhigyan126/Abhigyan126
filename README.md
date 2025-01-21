@@ -1,7 +1,7 @@
 <table style="width: 100%; background-color: white; border-collapse: collapse;">
   <tr>
     <td align="center">
-![pexels-krisof-1252869](https://github.com/user-attachments/assets/651ec1b6-7a6c-4372-8a58-f3fa1848555f)
+![pexels-krisof-1252869](https://github.com/user-attachments/assets/c5522dc1-282f-49b4-94dc-9895944010d4)
     </td>
   </tr>
   <tr>
