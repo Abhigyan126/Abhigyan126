@@ -1,6 +1,6 @@
 ###
 
-<p align="left">👋 Welcome to My GitHub!<br>Hi there! I’m passionate about exploring the endless possibilities of code. My repositories are a mix of serious projects, fun experiments, and everything in between. Whether it’s building something innovative or just playing around with an idea, this is where I bring my thoughts to life.<br><br><br>🌟 Take a Look Around<br>Feel free to explore my repositories. Whether you're here for something serious or just curious, I hope you find something that sparks your interest!</p>
+<p align="left">👋 Welcome to My GitHub!<br>Hi there! I’m passionate about exploring the endless possibilities of code. My repositories are a mix of serious projects, fun experiments, and everything in between. Whether it’s building something innovative or just playing around with an idea, this is where I bring my thoughts to life.!</p>
 
 
 <div align="center">
@@ -14,6 +14,8 @@
 <div align="center">
   <img height="200" src="https://tenor.com/en-GB/view/math-geometry-shape-circle-gif-14803312"  />
 </div>
+
+<div class="tenor-gif-embed" data-postid="14803312" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/math-geometry-shape-circle-gif-14803312">Math Geometry GIF</a>from <a href="https://tenor.com/search/math-gifs">Math GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
@@ -69,3 +71,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
 </div>
+
+<p align='center'>🌟 Take a Look Around<br>Feel free to explore my repositories. Whether you're here for something serious or just curious, I hope you find something that sparks your interest</p>
