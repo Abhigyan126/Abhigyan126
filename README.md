@@ -7,17 +7,7 @@
   <img src="https://profile-counter.glitch.me/Abhigyan126/count.svg?"  />
 </div>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://tenor.com/en-GB/view/math-geometry-shape-circle-gif-14803312"  />
-</div>
-
-<div class="tenor-gif-embed" data-postid="14803312" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/math-geometry-shape-circle-gif-14803312">Math Geometry GIF</a>from <a href="https://tenor.com/search/math-gifs">Math GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
 
 ###
 
