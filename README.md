@@ -1,11 +1,11 @@
 <table style="width: 100%; background-color: white; border-collapse: collapse;">
   <tr>
     <td align="center">
-![pexels-krisof-1252869](https://github.com/user-attachments/assets/8f882834-797f-4dc3-95ed-fa76902f2955)
+![pexels-krisof-1252869](https://github.com/user-attachments/assets/651ec1b6-7a6c-4372-8a58-f3fa1848555f)
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <p>👋 Welcome to My GitHub!<br>Hi there! I’m passionate about exploring the endless possibilities of code. My repositories are a mix of serious projects, fun experiments, and everything in between. Whether it’s building something innovative or just playing around with an idea, this is where I bring my thoughts to life!</p>
     </td>
   </tr>
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <p>🌟 Take a Look Around<br>Feel free to explore my repositories. Whether you're here for something serious or just curious, I hope you find something that sparks your interest!</p>
     </td>
   </tr>
