@@ -68,8 +68,9 @@
       <p>🌟 Take a Look Around<br>Feel free to explore my repositories. Whether you're here for something serious or just curious, I hope you find something that sparks your interest!</p>
     </td>
   </tr>
-</table>
-
+<tr>
+<td>
+  
 ```mermaid
 graph LR
     subgraph "Profile & Utilities"
@@ -134,3 +135,10 @@ graph LR
 
     classDef default fill:#333,stroke:#fff,stroke-width:1px;
 ```
+</td>
+</tr>
+</table>
+
+<div align="center">
+    <strong>Note:</strong> This graph is AI-generated and may give false information.
+</div>
