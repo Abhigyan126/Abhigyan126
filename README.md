@@ -69,3 +69,68 @@
     </td>
   </tr>
 </table>
+
+```mermaid
+graph LR
+    subgraph "Profile & Utilities"
+        Abhigyan126 --> Custom_Low_Battery_Warning
+        Abhigyan126 --> ForceDarkMode
+        Abhigyan126 --> Clear_Comments
+        Abhigyan126 --> Repository_Link
+        Custom_Low_Battery_Warning -.-> ForceDarkMode
+    end
+    
+    subgraph "Image Processing & CV"
+        City_Segmentation --> DrishyaVastu
+        City_Segmentation --> REM_MetaData
+        DrishyaVastu -->  Frame_Fusion
+        DrishyaVastu --> Eng_to_HIN_Translator
+        Display_image --> REM_MetaData
+        Facial_Recognition_Many_to_Many_ --> Make_FaceDB
+        depth_estimation --> Frame_Fusion
+        Road_Segmentation --> City_Segmentation
+        OCR --> REM_MetaData
+        Frame_Fusion -.-> PhotoDrop
+    end
+
+    subgraph "Web & Apps"
+        FEEDBACK --> Newspaper_AI
+        Gemini_wrapper --> FEEDBACK
+        PhotoDrop --> HTTP_server
+        Recipe_Repo --> Recipe_Repo_Python_FastAPI
+        Real_estate --> Real_Estate_Management
+        Newspaper_AI --> Newspaper_ai_React
+
+    end
+
+    subgraph "ML & AI"
+        LLM_MEM --> Newspaper_AI
+        LLM_MEM --> Prompt2query
+        Gesture_Detection --> LLM_MEM
+        Movie_recommendation --> LLM_MEM
+        SimilarityMAP --> LLM_MEM
+        RAG_Framework --> LLM_MEM
+        Snake_DQN --> Track_DQN
+        NuralNet --> Snake_DQN
+        PandemicPulse --> LLM_MEM
+
+    end
+
+    subgraph "Other"
+        Chunk -->  SIEVE
+        search_algorithm --> Lagrange_interpolation
+        Learning_management_system --> User_Authentication_System
+        NextWord_txt --> LLM_MEM
+        state --> HTTP_server
+        Vector_Store --> RAG_Framework
+        Packet_sniffer --> HTTP_server
+    end
+    
+    style Abhigyan126 fill:#222,stroke:#333,stroke-width:2px
+    style City_Segmentation fill:#222,stroke:#333,stroke-width:2px
+    style FEEDBACK fill:#222,stroke:#333,stroke-width:2px
+    style LLM_MEM fill:#222,stroke:#333,stroke-width:2px
+    style Chunk fill:#222,stroke:#333,stroke-width:2px
+
+    classDef default fill:#333,stroke:#fff,stroke-width:1px;
+```
