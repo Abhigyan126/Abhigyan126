@@ -72,6 +72,7 @@
 <td>
   
 ```mermaid
+%%{init: {"theme": "dark"}}%%
 graph LR
     subgraph "Profile & Utilities"
         Abhigyan126 --> Custom_Low_Battery_Warning
